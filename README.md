@@ -9,4 +9,5 @@ Topologi distributed controller pada jaringan SDN menggunakan POX Controller.
 
 ## Running program!!!
 1. File l2_learning.py code untuk controller 1 (on VM1) dan l2_learning2.py untuk controller 2 (on VM 2)
-2. run POX Controller 
+2. Jalankan POX Controller pada masing-masing VM 
+3. 
