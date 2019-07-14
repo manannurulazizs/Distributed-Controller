@@ -12,6 +12,7 @@ Topologi distributed controller pada jaringan SDN menggunakan POX Controller.
 2. Jalankan POX Controller pada masing-masing VM
 
 > ./pox.py forwarding.l2_learning openflow.of_01 –port=6633 (controller 1)
+
 > ./pox.py forwarding.l2_learning openflow.of_01 –port=6634 (controller 2)
 
 3. jalankan program di main terminal (pexpect.py, TopologiAA.py, TopologiAB.py)
